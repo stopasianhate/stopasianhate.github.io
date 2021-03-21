@@ -10,7 +10,7 @@ title:            Stop Asian Hate Crime
 tagline:          '#StopAsianHateCrime'
 description:      'Tracking and reporting Asian hate crimes globally and provide insightful resources on how to stay safe during and after the pandemic.'
 url:              https://stopasianhate.github.io/
-baseurl:          /
+baseurl:          https://stopasianhate.github.io/
 
 author:
   name:           'Ryan Han'
