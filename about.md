@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  We condemn the horrific acts of hate and violence targeting the Asian American and Pacific Islander (AAPI) community, which culminated in the tragic mass shooting in Georgia on March 17th. We mourn the loss of life and grieve with the families that have been broken by this latest racist, misogynistic hate crime.
-</p>
+The Stop Asian Hate Crime project was created on March 18th, a day after the tragic mass shooting in Georgia. We condemn the horrific acts of hate and violence targeting the Asian American and Pacific Islander (AAPI) community, and we took actions. We want this website to track and report every Asian hate crimes, promote awareness of racism against the AAPI community, and provide resources for people to stay safe during and after the pandemic.
+
+
 
