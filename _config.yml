@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        
-relative_permalinks: true
 
 # Setup
 title:            Stop Asian Hate Crime
