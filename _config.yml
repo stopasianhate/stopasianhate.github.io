@@ -9,8 +9,8 @@ permalink:
 title:            Asian Care Fund
 tagline:          '#StopAsianHateCrime'
 description:      'Integrity, justice, and gratitude.'
-url:              https://stopasianhate.github.io/
-baseurl:          https://stopasianhate.github.io/
+url:              //asiancarefund.org
+baseurl:          /
 
 author:
   name:           'Ryan Han'
