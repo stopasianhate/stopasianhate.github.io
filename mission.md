@@ -2,9 +2,6 @@
 layout: page
 title: About
 ---
-
-# Asian Care Fund Overview
-
 ---
 
 ### Introduction
