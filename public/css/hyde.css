@@ -79,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Roboto Condensed", Roboto;
+  font-family: "Roboto Condensed", Roboto !important;
   font-size: 3.25rem;
 }
 
