@@ -25,4 +25,4 @@ The Asian Care Fund was created on March 18th, a day after the tragic mass shoot
 
 ### Join Us
 
-[Instagram](asian.carefund)
+[Instagram](https://www.instagram.com/asian.carefund/)
