@@ -29,3 +29,44 @@ Location: Nathan Phillips Square, Toronto
 Organizer: [Stop Asian Hate Toronto](https://www.instagram.com/stopasianhate_toronto/)
 
 
+### Vancouver Solidarity Rally Against Anti-Asian Hate
+
+Time: 2PM, Sunday, March 28th, 2021 
+
+Location: Vancouver Art Gallery
+
+Organizer: [Stop Asian Hate Toronto](https://www.instagram.com/stopasianhate_toronto/)
+
+### Victoria Solidarity Rally Against Anti-Asian Hate
+
+Time: 2PM, Sunday, March 28th, 2021 
+
+Location: Parliament Building Front Lawn 
+
+Organizer: [Stop Asian Hate Toronto](https://www.instagram.com/stopasianhate_toronto/)
+
+### Okanagan Solidarity Rally Against Anti-Asian Hate
+
+Time: 2PM, Sunday, March 28th, 2021 
+
+Location: Gyro Park, Penticton
+
+Organizer: [Stop Asian Hate Toronto](https://www.instagram.com/stopasianhate_toronto/)
+
+### Montreal Solidarity Rally Against Anti-Asian Hate
+
+Time: 1PM, Sunday, March 28th, 2021 
+
+Location: Cabot Square
+
+Organizer: [Stop Asian Hate Toronto](https://www.instagram.com/stopasianhate_toronto/)
+
+### Calgary Solidarity Rally Against Anti-Asian Hate
+
+Time: 2PM, Sunday, March 28th, 2021 
+
+Location: Olympic Plaza
+
+Organizer: [Stop Asian Hate Toronto](https://www.instagram.com/stopasianhate_toronto/)
+
+
