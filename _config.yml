@@ -10,7 +10,7 @@ title:            Asian Care Fund
 tagline:          '#StopAsianHateCrime'
 description:      'Integrity, justice, and gratitude.'
 url:              //asiancarefund.org
-baseurl:          /
+baseurl:          //asiancarefund.org
 
 author:
   name:           'Ryan Han'
